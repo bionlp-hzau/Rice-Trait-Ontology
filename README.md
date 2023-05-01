@@ -30,7 +30,7 @@ The Rice Trait Ontology (RTO) project aims to create a comprehensive ontology fo
 ## Citation
 
 
-
+RTO, An Specific Crop Ontology for Rice Trait Concepts. Xinzhi Yao, Yun Liu, Qidong Deng, Yusha Liu, Xinchen Ma, Yufei Shen, Qianqian Peng, Zaiwen Feng and Jingbo Xia
 
 
 
